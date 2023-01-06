@@ -1,6 +1,6 @@
 # Frontend Mentor - NFT preview card component
 
-![Design preview for the NFT preview card component coding challenge](./img/abdulrahman14salah-github-io-NTF-Preview-Card-Component.png)
+![Design preview for the NFT preview card component coding challenge](./images/abdulrahman14salah-github-io-NTF-Preview-Card-Component.png)
 
 # Demo 
 https://abdulrahman14salah.github.io/NTF-Preview-Card-Component/
